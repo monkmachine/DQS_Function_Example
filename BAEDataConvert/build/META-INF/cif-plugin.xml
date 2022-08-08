@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cif-plugin name="Example">
+    <version-info buildString="12.6.3"/>
+	<startup-class>baeDateConvert.PluginStartupClass</startup-class>
+</cif-plugin>
